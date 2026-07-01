@@ -10,3 +10,4 @@ my to-do list
 9.practice chess openings
 10.solve chess puzzles
 11.chess the exam schedule
+12.study daily without studying
